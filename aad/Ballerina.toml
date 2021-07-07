@@ -9,4 +9,3 @@ license = ["Apache-2.0"]
 
 [build-options]
 observability-included=true
-taintCheck = true
